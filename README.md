@@ -11,15 +11,6 @@
 <code>-10% 所有已安装消耗品的重新装载时间</code>
 <h2 align="center"></h2>
 
-
-<div>
-  
-<a><img  src="https://github-readme-stats.vercel.app/api?username=Akagicv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stacklens's github stats" /></a>
-  
-<a><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akagicv&layout=compact&theme=buefy&hide_border=true" /></a> 
-  
-</div>
-
 <h2 align="center"></h2>
 
 <p><b>Hardware</b></p>
