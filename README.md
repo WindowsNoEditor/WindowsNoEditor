@@ -11,8 +11,6 @@
 <code>-10% 所有已安装消耗品的重新装载时间</code>
 <h2 align="center"></h2>
 
-<h2 align="center"></h2>
-
 <p><b>Hardware</b></p>
 
 <div>
