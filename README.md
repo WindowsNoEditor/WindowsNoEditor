@@ -1,12 +1,5 @@
 <h1>WindwosNoEditor</h1>
 
-<div>
-  
-[![BLOG](https://img.shields.io/badge/-blog-orgen?logo=rss&style=for-the-badge&logoColor=ffffff&color=413d9f)](http://www.windowsnoeditor.com/)
-[![BILIBILI](https://img.shields.io/badge/-bili-orgen?logo=bilibili&style=for-the-badge&logoColor=ffffff&color=f6729a)](https://space.bilibili.com/85735399)
-  
-</div>
-
 <p>一位点了「广博不精」舰长技能的coder</p>
 <code>-10% 所有已安装消耗品的重新装载时间</code>
 <h2 align="center"></h2>
